@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+/node_modules
+output
+.DS_Store
+Thumbs.db
+coverage/
+*.log
+.idea/
+.edpproj
+
+
